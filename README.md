@@ -16,6 +16,7 @@
 |---|---|---|
 | [Pandas 01](Odevler/Pandas-01/README.md) | Veri okuma, tablo inceleme, eksik değer kontrolü | Pandas |
 | [Pandas 02](Odevler/Pandas-02/README.md) | Series ve temel veri analizi alıştırmaları | Pandas |
+| [Pandas 03](Odevler/Pandas-03/README.md) | Öğrenci başarı analizi ve Min-Max normalizasyonu | Pandas, Matplotlib |
 | [Öğrenci Başarı Analizi](Odevler/Ogrenci-Basari-ve-Normalizasyon/README.md) | Min-Max normalizasyonu, not analizi | Pandas, Matplotlib |
 | [İstanbul Konut Verisi EDA](Odevler/Istanbul-Konut-Verisi-EDA/README.md) | İstanbul konut verilerinin keşifsel analizi | Python, Pandas |
 
